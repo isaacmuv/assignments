@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: blanchedalmond;
+}
+footer{
+  height: 50px; 
+  background-color: brown; 
+}
+main{
+height: 800px;
+background-color: #c2ffdc;
+
+}
+#pe{
+  background-color:black;
+  color: pink;
+  display: inline-flexbox;
+}
+#pro{
+  position:static;
+  align-items: center;
+  rightt: 380px;
+  height: 200px; weight:200 px; border-radius: 100px;
+  
+}
+#lean{
+    background-color: aqua;
+    border-radius: 5px;
+    height: 30px;
+    width: 200px;
+    align-self: flex-start;
+}
